@@ -1,0 +1,1 @@
+print('Uno \n Dos \n Tres \n Quatro \n Singko \n Sais \n Syete \n otso \n nuwebe \n Dyis')

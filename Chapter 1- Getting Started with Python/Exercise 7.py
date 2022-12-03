@@ -1,0 +1,6 @@
+print("Foods:")
+print("Sisig")
+print("Adobo")
+print("kare kare")
+print("Lumpia")
+print("Menudo")
